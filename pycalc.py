@@ -10,7 +10,10 @@ Created on Sat Aug  8 23:04:37 2020
 
 # Filename: pycalc.py
 
-"""PyCalc is a simple calculator built using Python and PyQt5."""
+"""PyCalc is a simple calculator built using Python and PyQt5.
+
+This is based on RealPython.com tutorial
+"""
 
 import sys
 
